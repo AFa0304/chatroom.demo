@@ -35,5 +35,6 @@
   },
   "devDependencies": {
     "babel-plugin-module-resolver": "^3.2.0"
-  }
+  },
+  "homepage": "."
 }
