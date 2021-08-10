@@ -1,16 +1,16 @@
-<h1>ReactÂ²©ö²á¤Ñ«Ç(§tµù¥U)</h1>
+<h1>Reactç°¡æ˜“èŠå¤©å®¤(å«è¨»å†Š)</h1>
 
 <div>
-  <a href="https://afa0304.github.io/react-simple-chatroom/build/" target="_blank">ÂI§Ú¶i¤J</a>
+  <a href="https://afa0304.github.io/react-simple-chatroom/build/" target="_blank">Demo</a>
   <p></p>
   <p>------------------------------------------</p>
-  <p>¨Ï¥Î<a href="https://firebase.google.com/" target="_blank">Firebase</a>¬°°ò©³»s§@ªºÂ²©ö²á¤Ñ«Ç</p>
+  <p>ä½¿ç”¨<a href="https://firebase.google.com/" target="_blank">Firebase</a>ç‚ºåŸºåº•è£½ä½œçš„ç°¡æ˜“èŠå¤©å®¤</p>
   <ul>
-	<li>¦ê±µ<a href="https://firebase.google.com/" target="_blank">Firebase</a>ªº·|­û¨t²Î</li>
-	<li>¨Ï¥Î<a href="https://firebase.google.com/" target="_blank">Firebase</a>ªºFirestore DatabaseÀx¦s²á¤Ñ¤º®e</li>
+	<li>ä¸²æ¥<a href="https://firebase.google.com/" target="_blank">Firebase</a>çš„æœƒå“¡ç³»çµ±</li>
+	<li>ä½¿ç”¨<a href="https://firebase.google.com/" target="_blank">Firebase</a>çš„Firestore Databaseå„²å­˜èŠå¤©å…§å®¹</li>
   </ul>
   <div>
-	<div><h2>®ÄªG®i¥Ü:</h2></div>
+	<div><h2>æ•ˆæœå±•ç¤º:</h2></div>
 	<div><img src="https://raw.githubusercontent.com/AFa0304/react-simple-chatroom/master/build/chatroomDemo.png"/></div>
   </div>
 </div>
