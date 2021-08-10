@@ -9,4 +9,8 @@
 	<li>串接<a href="https://firebase.google.com/" target="_blank">Firebase</a>的會員系統</li>
 	<li>使用<a href="https://firebase.google.com/" target="_blank">Firebase</a>的Firestore Database儲存聊天內容</li>
   </ul>
+  <div>
+	<div><h2>效果展示:<h2></div>
+	<div><img src="https://afa0304.github.io/chatroomDemo/build/chatroomDemo.png"/></div>
+  </div>
 </div>
