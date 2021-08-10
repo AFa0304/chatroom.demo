@@ -11,6 +11,6 @@
   </ul>
   <div>
 	<div><h2>效果展示:<h2></div>
-	<div><img src="https://afa0304.github.io/chatroomDemo/build/chatroomDemo.png"/></div>
+	<div><img src="https://raw.githubusercontent.com/AFa0304/chatroomDemo/master/build/chatroomDemo.png"/></div>
   </div>
 </div>
