@@ -1,4 +1,4 @@
-<h1>簡易聊天室(含註冊)</h1>
+<h1>React簡易聊天室(含註冊)</h1>
 
 <div>
   <a href="https://afa0304.github.io/chatroomDemo/build/" target="_blank">點我進入</a>
